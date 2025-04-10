@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+
+#contenedorFormulario {
+    display: flex;
+    justify-content: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+form div {
+    margin: 15px 0;
+}
+
+form div label {
+    margin-right: 5px;
+}

@@ -1,0 +1,65 @@
+.cont__table {
+    display: flex;
+    justify-content: center;
+
+}
+
+table {
+    background: #FFF;
+    border-radius: 10px;
+    width: 95% !important; 
+}
+
+.encabezado {
+    color: #000;
+    background: #fff;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+td {
+    width: 8%;
+    text-align: center;
+}
+
+td form {
+    display: inline-block;
+}
+
+#contenedorFormActividades {
+    display: flex;
+    justify-content: center;
+}
+
+#contenedorActividades {
+    display: flex;
+    flex-direction: column;
+}
+
+h4 {
+    text-align: center;
+    color: #4994D1;
+    font-weight: 300;
+}
+
+.contenedoresDelForm {
+    display: flex;
+    justify-content: center;
+    margin: 5px 0;
+}
+
+.txtField {
+    margin-bottom: 10px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+}
+
+.txtField:focus {
+    background: #ddd;
+    border-color:#4994D1 ;
+}
+
+label {
+    margin: 0 8px;
+    color: #777;
+}

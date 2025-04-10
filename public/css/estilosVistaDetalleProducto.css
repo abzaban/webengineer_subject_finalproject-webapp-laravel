@@ -1,0 +1,8 @@
+.contenedoresDatosProducto {
+    display: flex;
+    margin: 10px 0;
+}
+
+label {
+    margin-right: 5px;
+}

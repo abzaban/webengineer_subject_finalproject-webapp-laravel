@@ -1,0 +1,54 @@
+main {
+    font-size: 20px;
+}
+
+h1 {
+    font-weight: 500;
+    text-align: center;
+}
+
+#contenedorFormulario {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin: 15px;
+    width: 600px;
+}
+
+label {
+    margin-left: 8px;
+    color: #777;
+}
+
+.txtField {
+    margin-bottom: 10px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+}
+
+.txtField:focus {
+    background: #ddd;
+    border-color:#469ce8 ;
+}
+
+#contenedorEvaluarPredio {
+    display: flex;
+    justify-content: center;
+    margin: 15px 0;
+}
+
+#btnEvaluar {
+    margin-left: 15px;
+}
+
+#botonPeticion {
+    width: 200px;
+    margin: auto;
+    margin-top: 10px;
+    font-size: 18px;
+}

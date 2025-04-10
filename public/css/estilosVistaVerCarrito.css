@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+}
+
+#contenedorPrincipal {
+    display: flex;
+    flex-direction: column;
+    align-items:  center;
+}
+
+#contenedorPago {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+
+#labelTotal {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#contenedorArticulos {
+    display: flex;
+    flex-direction: column;
+}
+
+#contenedorDatosArticulos {
+    display: flex;
+    border-bottom: solid 1px black;
+    padding: 15px 0;
+}
+
+#contenedorEtiquetas {
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,20 @@
+form div {
+    margin: 0 50px;
+}
+
+#contenedorPrincipal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+}
+
+#contenedorBoton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#formulario {
+    width: 500px;
+}

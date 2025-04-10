@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+}
+
+#contenedorFormulario {
+    display: flex;
+    justify-content: center;
+}
+
+#formularioCoordenadas {
+    display: flex;
+    flex-direction: column;
+}
+
+form div {
+    margin: 15px 0;
+}
+
+form div label {
+    margin-right: 8px;
+}
+
+.cont__table {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    background: #FFF;
+    border-radius: 10px;
+    width: 95% !important; 
+}
+
+.encabezado {
+    color: #000;
+    background: #fff;
+    font-weight: bold;
+    border-radius: 10px;
+}
