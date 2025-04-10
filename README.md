@@ -1,4 +1,4 @@
-# webengineer_subject_finalproject-webapp-laravel
+# [MIGRATED] webengineer_subject_finalproject-webapp-laravel
 A lightweight e-commerce web app developed for a web engineering course.
 
 # Tech stack
